@@ -1,3 +1,3 @@
 # Suicide-Rate-Prediction
 
-In this project, I performed a comprehensive analysis of smoking data in the UK. By examining smoking prevalence, trends, and associated factors, we aim to gain insights into the smoking patterns within the population. This analysis will contribute to the development of targeted interventions, public health initiatives, and smoking cessation programs to reduce smoking rates and improve public health outcomes.
+ The goal of this project is to build a predictive model for suicide rates using socio-economic data. By exploring various factors such as economic indicators, mental health services accessibility, and social factors, we aim to develop a model that can forecast suicide rates in different populations. The insights derived from this analysis can help inform suicide prevention efforts and support mental health initiatives.
